@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T2\bin\Debug\T2.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T2\bin\Debug\T2.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T2\bin\Debug\T2.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T2\obj\Debug\T2.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T2\obj\Debug\T2.pdb

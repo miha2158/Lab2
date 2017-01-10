@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T3\bin\Debug\T3.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T3\bin\Debug\T3.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T3\bin\Debug\T3.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T3\obj\Debug\T3.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T3\obj\Debug\T3.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Lab2\T3\obj\Debug\T3.pdb
